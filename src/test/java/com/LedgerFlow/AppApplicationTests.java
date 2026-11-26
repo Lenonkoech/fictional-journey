@@ -1,4 +1,4 @@
-package com.LedgerFlow.app;
+package com.LedgerFlow;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
